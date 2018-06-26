@@ -1,0 +1,13 @@
+body {
+  background-image: repeating-linear-gradient(#FFF, #D6A2E8, #FFF, #5758BB, #FFF);
+  font-family: 'Abel', sans-serif;
+  margin: 8em;
+  font-size: 1.5em;
+}
+
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
